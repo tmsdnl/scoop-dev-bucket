@@ -1,0 +1,5 @@
+{
+  "bin": "setup.ps1",
+  "url": "https://raw.githubusercontent.com/tmsdnl/scoop-setup/master/setup.ps1",
+  "version": "1.0"
+}
